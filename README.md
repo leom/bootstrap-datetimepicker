@@ -1,3 +1,6 @@
+# HACKED VERSION. DO NOT CLONE/FORK.
+Hacked this version up so it could work with some oddities in our local environment. Don't use this if you have the chance.
+
 # Bootstrap 3 Date/Time Picker
 
 ![GitHub version](https://badge.fury.io/gh/Eonasdan%2Fbootstrap-datetimepicker.png)&nbsp;&nbsp;&nbsp;![Travis](https://travis-ci.org/Eonasdan/bootstrap-datetimepicker.svg?branch=development)
