@@ -34,10 +34,10 @@
     ],
     "license": "MIT",
     "main": "src/js/bootstrap-datetimepicker.js",
-    "name": "eonasdan-bootstrap-datetimepicker",
+    "name": "leom-bootstrap-datetimepicker",
     "repository": {
         "type": "git",
-        "url": "https://github.com/eonasdan/bootstrap-datetimepicker.git"
+        "url": "https://github.com/leom/bootstrap-datetimepicker.git"
     },
     "version": "4.17.37"
 }
